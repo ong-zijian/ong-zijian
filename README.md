@@ -53,6 +53,6 @@ I'm Zi Jian, Penultimate Undergrad at SMU | BSc Information System (Digital Clou
 
 <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ong-zijian)-->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ong-zijian)
-![Trophy Case](https://github-profile-trophy.vercel.app/?username=ong-zijian)
+<!--![Trophy Case](https://github-profile-trophy.vercel.app/?username=ong-zijian)-->
 
 ![Visitor Count](https://profile-counter.glitch.me/{your-username}/count.svg)
