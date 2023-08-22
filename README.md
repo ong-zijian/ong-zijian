@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-I'm Zi Jian, Penultimate Undergrad at SMU | BSc Information System (Digital Cloud Solution & Business Analytics)
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Development,+AI+and+ML;Love+to+try+new+things"></a>
 </p>
