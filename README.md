@@ -4,9 +4,8 @@
 </p>
 
 ## About Me
-- Penultimate Undergraduate @SMU | BSc Information System (Digital Cloud Solution & Business Analytics)
-- I’m currently learning `Software Development`, `AL` and `ML`
-- Interested in trying out new and interesting projects
+- Graduate @SMU | BSc Information System (Digital Cloud Solution & Business Analytics)
+- I’m always learning more about `Software Development`, `AL` and `ML`
 - Visit my personal site [here](https://ong-zijian.github.io/zijian_personal_page/)!
 
 ## 🛠️ My Skills
